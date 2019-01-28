@@ -1,0 +1,15 @@
+{
+  "name": "dsalgo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "insertionSort.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^5.12.1",
+    "jest": "^23.6.0"
+  }
+}
